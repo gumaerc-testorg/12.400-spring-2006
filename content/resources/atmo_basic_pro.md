@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: atmo_basic_pro.pdf
 uid: a845a691-62da-3c5e-61d8-2d9079806f1f

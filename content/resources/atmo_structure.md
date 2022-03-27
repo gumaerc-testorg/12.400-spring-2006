@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: atmo_structure.pdf
 uid: 2491dc7a-446a-d381-e294-8b661465e4e2

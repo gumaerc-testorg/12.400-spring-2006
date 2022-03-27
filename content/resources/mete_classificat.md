@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: mete_classificat.pdf
 uid: 37e64f38-085e-05c7-d12d-6499f941bdd7

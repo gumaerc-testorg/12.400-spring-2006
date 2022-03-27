@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: basic_facts.pdf
 uid: 038c35c0-2e4c-aaa4-1e5c-9b31c5257326

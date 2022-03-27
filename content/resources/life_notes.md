@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: life_notes.pdf
 uid: 0315d4f5-db01-ddb8-2785-bc65a0a3c0f3

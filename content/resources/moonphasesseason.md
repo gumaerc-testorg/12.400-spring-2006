@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: moonphasesseason.pdf
 uid: 8f9c67fa-4b02-e4a5-c970-aa7d2630fc2a

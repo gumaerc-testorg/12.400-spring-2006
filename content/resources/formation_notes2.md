@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1274f7d-3220-2d73-2637-ed83d1471579
 resourcetype: Document
 title: formation_notes2.pdf
 uid: fcf0fcbf-9bda-3e43-2d32-6f47f2fe23c0
