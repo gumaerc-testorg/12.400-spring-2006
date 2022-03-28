@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Study Materials
 uid: e1274f7d-3220-2d73-2637-ed83d1471579
 ---
@@ -30,9 +31,9 @@ Handouts
 Organization/Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Facts ([PDF]({{< baseurl >}}/resources/basic_facts))  
+Basic Facts ({{< resource_link 038c35c0-2e4c-aaa4-1e5c-9b31c5257326 "PDF" >}})  
   
-Moon Phases and Seasons ([PDF]({{< baseurl >}}/resources/moonphasesseason))
+Moon Phases and Seasons ({{< resource_link 8f9c67fa-4b02-e4a5-c970-aa7d2630fc2a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ Moon Phases and Seasons ([PDF]({{< baseurl >}}/resources/moonphasesseason))
 Overview of the Solar System
 {{< tdclose >}}
 {{< tdopen >}}
-Survey of the Planets ([PDF]({{< baseurl >}}/resources/survey_of_planet))
+Survey of the Planets ({{< resource_link 25a06b30-c872-38fd-ffa2-bcb752dafd05 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ Survey of the Planets ([PDF]({{< baseurl >}}/resources/survey_of_planet))
 The Sun
 {{< tdclose >}}
 {{< tdopen >}}
-Solar Structure ([PDF]({{< baseurl >}}/resources/sun_onepage))
+Solar Structure ({{< resource_link 6f01c401-d44d-eccc-a0ba-d03bd9830f3b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +69,7 @@ Solar Structure ([PDF]({{< baseurl >}}/resources/sun_onepage))
 Celestial Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-Orbital Elements ([PDF]({{< baseurl >}}/resources/orbitalelements))
+Orbital Elements ({{< resource_link 22463f2f-5e92-2e87-fabc-3f648a2fe647 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +81,7 @@ Orbital Elements ([PDF]({{< baseurl >}}/resources/orbitalelements))
 Planetary Formation
 {{< tdclose >}}
 {{< tdopen >}}
-Solar System Formation ([PDF]({{< baseurl >}}/resources/ss_formation))
+Solar System Formation ({{< resource_link f72c012b-0f6d-ff05-3058-16dfb688a4d0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +93,7 @@ Solar System Formation ([PDF]({{< baseurl >}}/resources/ss_formation))
 Meteorites
 {{< tdclose >}}
 {{< tdopen >}}
-Meteorite Definitions ([PDF]({{< baseurl >}}/resources/mete_definitions))
+Meteorite Definitions ({{< resource_link 92d10718-19b1-e36e-b59d-27b0fe20ee61 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +105,7 @@ Meteorite Definitions ([PDF]({{< baseurl >}}/resources/mete_definitions))
 Planetary Surfaces (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Icy Satellites ([PDF]({{< baseurl >}}/resources/icy_satellites))
+Icy Satellites ({{< resource_link f7654a41-d734-cdb6-131c-95387528efc0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,9 +117,9 @@ Icy Satellites ([PDF]({{< baseurl >}}/resources/icy_satellites))
 Planetary Atmospheres (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric Basic Properties ([PDF]({{< baseurl >}}/resources/atmo_basic_pro))  
+Atmospheric Basic Properties ({{< resource_link a845a691-62da-3c5e-61d8-2d9079806f1f "PDF" >}})  
   
-Atmospheric Structure ([PDF]({{< baseurl >}}/resources/atmo_structure))
+Atmospheric Structure ({{< resource_link 2491dc7a-446a-d381-e294-8b661465e4e2 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +131,7 @@ Atmospheric Structure ([PDF]({{< baseurl >}}/resources/atmo_structure))
 Life in the Solar System
 {{< tdclose >}}
 {{< tdopen >}}
-Life Notes ([PDF]({{< baseurl >}}/resources/life_notes))
+Life Notes ({{< resource_link 0315d4f5-db01-ddb8-2785-bc65a0a3c0f3 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

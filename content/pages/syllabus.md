@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: bc420137-d798-c7b3-dd18-b71c1ac8b0bb
 ---
@@ -273,12 +274,12 @@ Beatty, J. K., et al. _The New Solar System_. Cambridge, UK: Cambridge Universit
 Reading Assignments
 -------------------
 
-Reading assignments in the [readings]({{< baseurl >}}/pages/readings) section are to be completed prior to class in the indicated sessions.
+Reading assignments in the {{< resource_link 49d7ff6b-5be0-7150-d935-f77a5272a6d8 "readings" >}} section are to be completed prior to class in the indicated sessions.
 
 Homework
 --------
 
-Discussion of homework problems with your classmates and TA is permitted and encouraged, but you must turn in your own work. Copying constitutes academic dishonesty. Homework is due at the beginning of class, in the sessions mentioned in the [assignments]({{< baseurl >}}/pages/assignments) section. Late homework problems not accepted.
+Discussion of homework problems with your classmates and TA is permitted and encouraged, but you must turn in your own work. Copying constitutes academic dishonesty. Homework is due at the beginning of class, in the sessions mentioned in the {{< resource_link 6ee3a92a-7d23-5e6d-c56d-ae939f982174 "assignments" >}} section. Late homework problems not accepted.
 
 Grading Policy
 --------------
