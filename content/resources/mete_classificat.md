@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-400-the-solar-system-spring-2006/37e64f38085e05c7d12d6499f941bdd7_mete_classificat.pdf
+file: /courses/12-400-the-solar-system-spring-2006/37e64f38085e05c7d12d6499f941bdd7_mete_classificat.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
