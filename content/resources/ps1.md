@@ -6,6 +6,7 @@ file: /courses/12-400-the-solar-system-spring-2006/0591bf685cdcd9c69368274d203e2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1.pdf
 uid: 0591bf68-5cdc-d9c6-9368-274d203e2a5b
 ---
 This file includes problems on the topics of distance scales, spacecraft, eclipses, and density of the solar system.
-

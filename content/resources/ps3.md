@@ -8,6 +8,7 @@ file: /courses/12-400-the-solar-system-spring-2006/998ea775492c74eb139288919359a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 998ea775-492c-74eb-1392-88919359acbc
 ---
 This file includes problems on the topics of interplanetary Olympics, and
 tidal forces.
-
