@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about density of Galilean satellites, Icy satellites
   of Saturn and satellites of Uranus.
-file: /courses/12-400-the-solar-system-spring-2006/f7654a41d734cdb6131c95387528efc0_icy_satellites.pdf
+file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/f7654a41d734cdb6131c95387528efc0_icy_satellites.pdf
 file_size: 16708
 file_type: application/pdf
 learning_resource_types: []

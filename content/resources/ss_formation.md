@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the topics: characteristics to be explained by theory,
   stages in forming a solar system and a recipe for making planets.'
-file: /courses/12-400-the-solar-system-spring-2006/f72c012b0f6dff05305816dfb688a4d0_ss_formation.pdf
+file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/f72c012b0f6dff05305816dfb688a4d0_ss_formation.pdf
 file_size: 57674
 file_type: application/pdf
 learning_resource_types: []

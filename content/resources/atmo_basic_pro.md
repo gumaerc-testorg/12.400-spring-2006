@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about basic properties of terrestrial
   atmospheres, and properties of outer planet atmospheres.
-file: /courses/12-400-the-solar-system-spring-2006/a845a69162da3c5e61d82d9079806f1f_atmo_basic_pro.pdf
+file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/a845a69162da3c5e61d82d9079806f1f_atmo_basic_pro.pdf
 file_size: 31330
 file_type: application/pdf
 learning_resource_types: []
