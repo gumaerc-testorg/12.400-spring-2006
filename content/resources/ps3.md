@@ -4,7 +4,7 @@ description: 'This file includes problems on the topics of interplanetary Olympi
   and
 
   tidal forces.'
-file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/998ea775492c74eb139288919359acbc_ps3.pdf
+file: /courses/12-400-the-solar-system-spring-2006/998ea775492c74eb139288919359acbc_ps3.pdf
 file_size: 39390
 file_type: application/pdf
 learning_resource_types:

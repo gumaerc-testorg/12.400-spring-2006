@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains an image which is depicting the atmospheric structure.
-file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/2491dc7a446ad381e2948b661465e4e2_atmo_structure.pdf
+file: /courses/12-400-the-solar-system-spring-2006/2491dc7a446ad381e2948b661465e4e2_atmo_structure.pdf
 file_size: 128465
 file_type: application/pdf
 learning_resource_types: []
