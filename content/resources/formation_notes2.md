@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about nebular disk model and chemical
   evolution of the disk.
-file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/fcf0fcbf9bda3e432d326f47f2fe23c0_formation_notes2.pdf
+file: /courses/12-400-the-solar-system-spring-2006/fcf0fcbf9bda3e432d326f47f2fe23c0_formation_notes2.pdf
 file_size: 35740
 file_type: application/pdf
 learning_resource_types: []
