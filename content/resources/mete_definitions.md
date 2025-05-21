@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information about the study of meteorites and
   giving definitions about the wonderful world of Meteorites.
-file: /ol-ocw-studio-app/courses/12-400-the-solar-system-spring-2006/92d1071819b1e36eb59d27b0fe20ee61_mete_definitions.pdf
+file: /courses/12-400-the-solar-system-spring-2006/92d1071819b1e36eb59d27b0fe20ee61_mete_definitions.pdf
 file_size: 64694
 file_type: application/pdf
 learning_resource_types: []
